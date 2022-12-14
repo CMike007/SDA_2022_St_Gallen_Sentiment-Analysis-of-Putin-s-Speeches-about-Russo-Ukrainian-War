@@ -11,7 +11,7 @@ Published in: 'SDA_2022'
 
 Description: 'Analyzing Speeches by Putin between 2012 and 2022 on the topic of Ukraine to investigate if we can see a shift in Sentiment'
 
-Keywords: 'NLP, Sentiment-Analysis, Crawling, Web-scraping, Ukraine, Putin' 
+Keywords: 'NLP, Sentiment-Analysis, Crawling, Web-scraping, Ukraine, Putin, Russo-Ukrainian War, Wordcloud' 
 
 Author: 'Tim Gruber, Domenico Maffei, Michael Birkenzeller, Mason Tjuanta'
 

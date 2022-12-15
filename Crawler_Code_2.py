@@ -3,7 +3,7 @@
 """
 
 Created on Sat Nov  5 15:16:17 2022
-@author: Michael Birkenzeller
+@author: 'Tim Gruber, Domenico Maffei, Mason Tjuanta, Michael Birkenzeller'
 
 """
 #%% All the relevant Libraries

@@ -2,10 +2,7 @@
 """
 Created on Wed Nov 30 15:46:21 2022
 
-@author: timgr
-
-Source of original code: https://github.com/chuachinhon/practical_nlp/blob/master/notebooks/1.0_speech_sentiment_cch.ipynb
-
+@author: Tim Gruber, Domenico Maffei, Mason Tjuanta, Michael Birkenzeller
 
 """
 #%% Import all the libraries
